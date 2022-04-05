@@ -1,0 +1,25 @@
+[15-Feb-2022 18:10:51 UTC] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:10:51 UTC] PHP Warning:  Use of undefined constant history - assumed 'history' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:10:52 UTC] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:10:52 UTC] PHP Warning:  Use of undefined constant history - assumed 'history' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:10:52 UTC] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:10:52 UTC] PHP Warning:  Use of undefined constant history - assumed 'history' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:10:52 UTC] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:10:52 UTC] PHP Warning:  Use of undefined constant history - assumed 'history' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:14:55 UTC] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:15:00 UTC] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:15:09 UTC] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:15:12 UTC] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:15:18 UTC] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:16:02 UTC] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:16:09 UTC] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:17:05 UTC] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:17:05 UTC] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:17:05 UTC] PHP Warning:  Use of undefined constant history - assumed 'history' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:18:46 UTC] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 10
+[15-Feb-2022 18:18:46 UTC] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:18:46 UTC] PHP Warning:  Use of undefined constant history - assumed 'history' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[15-Feb-2022 18:18:46 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 12
+[16-Feb-2022 07:06:42 UTC] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 50
+[16-Feb-2022 07:06:42 UTC] PHP Warning:  Use of undefined constant history - assumed 'history' (this will throw an Error in a future version of PHP) in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 50
+[16-Feb-2022 07:06:42 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home1/northviewfloorin/demo.northviewflooring.ca/mail/mail.php on line 50
